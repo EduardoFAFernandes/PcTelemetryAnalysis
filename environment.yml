@@ -1,0 +1,12 @@
+name: PcTelemetryAnalysis
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - dask
+  - datashader
+  - fastparquet
+  - holoviews
+  - plotly
+prefix: /home/minttest/anaconda3/envs/PcTelemetryAnalysis
