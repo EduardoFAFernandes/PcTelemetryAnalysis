@@ -9,4 +9,6 @@ dependencies:
   - fastparquet
   - holoviews
   - plotly
+  - scikit-learn
+  - black
 prefix: /home/minttest/anaconda3/envs/PcTelemetryAnalysis
